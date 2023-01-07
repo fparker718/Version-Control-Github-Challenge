@@ -1,0 +1,5 @@
+1. The terminal is a unit where you can enter data and transcribe the data on a computer. 
+
+2. git is a Version control system that let you manage and keep track of source code and GitHub is a cloud-based hosting service that lets you manage git repos. 
+
+3. We use Github to manage repos and our source codes. Also, we use it to collab with each other on projects. 
